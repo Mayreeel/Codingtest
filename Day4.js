@@ -48,6 +48,7 @@ function solution(numlist, n) {
   return answer;
 }
 
+// 다른 사람 풀이
 // function solution(numlist, n) {
 //     return numlist.sort((a, b) => Math.abs(a - n) - Math.abs(b - n) || b - a);
 //   }
