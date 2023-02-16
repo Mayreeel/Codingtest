@@ -60,3 +60,5 @@ function solution(array) {
 
 //     return items[0][0];
 // }
+
+// 소숫점 버릴땐 parseInt 말고 Math.floor 쓰기!!
